@@ -1,14 +1,4 @@
-content   viewlinksource            jar:chrome/viewlinksource.jar!/content/
-locale    viewlinksource  bg-BG     jar:chrome/viewlinksource.jar!/locale/bg-BG/
-locale    viewlinksource  da-DK     jar:chrome/viewlinksource.jar!/locale/da-DK/
-locale    viewlinksource  de-DE     jar:chrome/viewlinksource.jar!/locale/de-DE/
-locale    viewlinksource  en-US     jar:chrome/viewlinksource.jar!/locale/en-US/
-locale    viewlinksource  es-ES     jar:chrome/viewlinksource.jar!/locale/es-ES/
-locale    viewlinksource  fr-FR     jar:chrome/viewlinksource.jar!/locale/fr-FR/
-locale    viewlinksource  it-IT     jar:chrome/viewlinksource.jar!/locale/it-IT/
-locale    viewlinksource  nl-NL     jar:chrome/viewlinksource.jar!/locale/nl-NL/
-locale    viewlinksource  pt-BR     jar:chrome/viewlinksource.jar!/locale/pt-BR/
-locale    viewlinksource  tr-TR     jar:chrome/viewlinksource.jar!/locale/tr-TR/
+content viewlinksource              chrome/content/
+locale  viewlinksource  en-US       chrome/locale/en-US/
 
-overlay   chrome://browser/content/browser.xul  chrome://viewlinksource/content/overlay.xul
-
+overlay chrome://browser/content/browser.xul  chrome://viewlinksource/content/overlay.xul
