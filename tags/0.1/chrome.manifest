@@ -1,0 +1,3 @@
+content	viewlinksource	chrome/content/
+overlay	chrome://browser/content/browser.xul	chrome://viewlinksource/content/overlay.xul
+
