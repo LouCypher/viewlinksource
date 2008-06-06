@@ -1,3 +1,4 @@
-content	viewlinksource	chrome/content/
-overlay	chrome://browser/content/browser.xul	chrome://viewlinksource/content/overlay.xul
+content viewlinksource              chrome/content/
+locale  viewlinksource  en-US       chrome/locale/en-US/
 
+overlay chrome://browser/content/browser.xul  chrome://viewlinksource/content/overlay.xul
